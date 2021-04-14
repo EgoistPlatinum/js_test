@@ -1,0 +1,452 @@
+[
+	{
+		"mag_number": "2", 
+		"mag_name": "Мытищи"
+	},
+	{
+		"mag_number":"3", 
+		 "mag_name": "Красногорск"
+		},
+	{
+		"mag_number": "4", 
+		"mag_name": "Алтуфьево"
+	},
+	{
+		"mag_number": "5", 
+		"mag_name": "Химки"
+	},
+	{
+		"mag_number": "6", 
+		"mag_name": "Сокольники"
+	},
+	{
+		"mag_number": "7", 
+		"mag_name": "Ростов-на-Дону-1 (Мега)"
+	},
+	{
+		"mag_number": "8", 
+		"mag_name": "Краснодар-1 (СБС)"
+	},
+	{
+		"mag_number": "9", 
+		"mag_name": "Самара-1 (Дыбенко)"
+	},
+	{
+		"mag_number": "10", 
+		"mag_name": "Санкт-Петербург-1 Коллонтай"
+	},
+	{
+		"mag_number": "11", 
+		"mag_name": "Санкт-Петербург-2 Испытателей"
+	},
+	{
+		"mag_number": "12", 
+		"mag_name": "Новосибирск-1"
+	},
+	{
+		"mag_number": "13", 
+		"mag_name": "Самара-2 (Мега)"
+	},
+	{
+		"mag_number": "14", 
+		"mag_name": "Ростов-на-Дону-2 (Орбитальная)"
+	},
+	{
+		"mag_number": "16", 
+		"mag_name": "Омск"
+	},
+	{
+		"mag_number": "17", 
+		"mag_name": "Уфа-1"
+	},
+	{
+		"mag_number": "18", 
+		"mag_name": "Тверь"
+	},
+	{
+		"mag_number": "19", 
+		"mag_name": "Рязань"
+	},
+	{
+		"mag_number": "20", 
+		"mag_name": "Лефортово"
+	},
+	{
+		"mag_number": "21", 
+		"mag_name": "Воронеж"
+	},
+	{
+		"mag_number": "22", 
+		"mag_name": "Климовск"
+	},
+	{
+		"mag_number": "23", 
+		"mag_name": "Красноярск-1"
+	},
+	{
+		"mag_number": "24", 
+		"mag_name": "Волгоград"
+	},
+	{
+		"mag_number": "25", 
+		"mag_name": "Екатеринбург"
+	},
+	{
+		"mag_number": "26", 
+
+		"mag_name": "Рязанский проспект"},
+	{
+		"mag_number": "27", 
+		"mag_name": "Казань"
+	},
+	{
+		"mag_number": "28", 
+		"mag_name": "Ногинск"
+	},
+	{
+		"mag_number": "30", 
+		"mag_name": "Новосибирск-2"
+	},
+	{
+		"mag_number": "31", 
+		"mag_name": "Тюмень"
+	},
+	{
+		"mag_number": "32", 
+		"mag_name": "Новая Рига"
+	},
+	{
+		"mag_number": "33", 
+		"mag_name": "Уфа-2"
+	},
+	{
+		"mag_number": "34", 
+		"mag_name": "Самара-3 (Южное шоссе)"
+	},
+	{
+		"mag_number": "35", 
+		"mag_name": "Зеленоград"
+	},
+	{
+		"mag_number": "36", 
+		"mag_name": "Барнаул-1"
+	},
+	{
+		"mag_number": "37", 
+		"mag_name": "Красноярск-2"
+	},
+	{
+		"mag_number": "38", 
+		"mag_name": "Челябинск"
+	},
+	{
+		"mag_number": "39", 
+		"mag_name": "Набережные Челны"
+	},
+	{
+		"mag_number": "40", 
+		"mag_name": "Шолохово"
+	},
+	{
+		"mag_number": "41", 
+		"mag_name": "Санкт-Петербург-3 Бугры"
+	},
+	{
+		"mag_number": "42", 
+		"mag_name": "Санкт-Петербург-4 Партизана Германа"
+	},
+	{
+		"mag_number": "43", 
+		"mag_name": "Каширское"
+	},
+	{
+		"mag_number": "44", 
+		"mag_name": "Новокузнецк"
+	},
+	{
+		"mag_number": "45", 
+		"mag_name": "Косино"
+	},
+	{
+		"mag_number": "46", 
+		"mag_name": "Казань-2 (Солнечный)"},
+	{
+		"mag_number": "47", 
+		"mag_name": "Тула"},
+	{
+		"mag_number": "48", 
+		"mag_name": "Пенза"},
+	{
+		"mag_number": "49", 
+		"mag_name": "Люберцы"},
+	{
+		"mag_number": "51", 
+		"mag_name": "Киевское шоссе"
+	},
+	{
+		"mag_number": "52", 
+		"mag_name": "Ярославль-2"
+	},
+	{
+		"mag_number": "53", 
+		"mag_name": "Екатеринбург-2"
+	},
+	{
+		"mag_number": "55", 
+		"mag_name": "Кемерово"
+	},
+	{
+		"mag_number": "56", 
+		"mag_name": "Юдино"
+	},
+	{
+		"mag_number": "57", 
+		"mag_name": "Саратов"
+	},
+	{
+		"mag_number": "58", 
+		"mag_name": "Ярославль-1"
+	},
+	{
+		"mag_number": "59", 
+		"mag_name": "Кострома"
+	},
+	{
+		"mag_number": "64", 
+		"mag_name": "Видное"
+	},
+	{
+		"mag_number": "65", 
+		"mag_name": "Пушкино"
+	},
+	{
+		"mag_number": "67", 
+		"mag_name": "Новосибирск-3"},
+	{
+		"mag_number": "68", 
+		"mag_name": "Иркутск"},
+	{
+		"mag_number": "69", 
+		"mag_name": "Ставрополь"},
+	{
+		"mag_number": "70", 
+		"mag_name": "Волжский"
+	},
+	{
+		"mag_number": "71", 
+		"mag_name": "Ульяновск (Олимпийский)"
+	},
+	{
+		"mag_number": "73", 
+		"mag_name": "Курск"
+	},
+	{
+		"mag_number": "74", 
+		"mag_name": "Оренбург"
+	},
+	{
+		"mag_number": "75", 
+		"mag_name": "Владивосток"
+	},
+	{
+		"mag_number": "77", 
+		"mag_name": "Киров"
+	},
+	{
+		"mag_number": "78", 
+		"mag_name": "Калининград"
+	},
+	{
+		"mag_number": "79", 
+		"mag_name": "Петрозаводск"
+	},
+	{
+		"mag_number": "80", 
+		"mag_name": "Тольятти"
+	},
+	{
+		"mag_number": "81", 
+		"mag_name": "Хабаровск"
+	},
+	{
+		"mag_number": "82", 
+		"mag_name": "Красноярск-3"
+	},
+	{
+		"mag_number": "83", 
+		"mag_name": "Архангельск"
+	},
+	{
+		"mag_number": "86", 
+		"mag_name": "Троицк"
+	},
+	{
+		"mag_number": "88", 
+		"mag_name": "Омск Амур"
+	},
+	{
+		"mag_number": "89", 
+		"mag_name": "Барнаул-2"
+	},
+	{
+		"mag_number": "90", 
+		"mag_name": "Белгород"
+	},
+	{
+		"mag_number": "91", 
+		"mag_name": "Череповец"
+	},
+	{
+		"mag_number": "92", 
+		"mag_name": "Краснодар-3 (Западный объезд)"
+	},
+	{
+		"mag_number": "93", 
+		"mag_name": "Иваново-Дерябина"
+	},
+	{
+		"mag_number": "94", 
+		"mag_name": "Ростов-на-Дону 3 (Доватора)"
+	},
+	{
+		"mag_number": "109",
+		 "mag_name": "Пермь"
+		},
+	{
+		"mag_number": "110",
+		 "mag_name": "Тюмень-2"
+		},
+	{
+		"mag_number": "111",
+		 "mag_name": "Воронеж-2"
+		},
+	{
+		"mag_number": "113",
+		 "mag_name": "Алматы"
+		},
+	{
+		"mag_number": "114",
+		 "mag_name": "Домодедово"
+		},
+	{
+		"mag_number": "115",
+		 "mag_name": "Ижевск"
+		},
+	{
+		"mag_number": "117",
+		 "mag_name": "Зил"
+		},
+	{
+		"mag_number": "119",
+		 "mag_name": "Нижний-Новгород"
+		},
+	{
+		"mag_number": "120",
+		 "mag_name": "Улан-Удэ"
+		},
+	{
+		"mag_number": "121",
+		 "mag_name": "Иркутск-Плотина"
+		},
+	{
+		"mag_number": "122",
+		 "mag_name": "Истра"
+		},
+	{
+		"mag_number": "123",
+		 "mag_name": "Хабаровск-2"
+		},
+	{
+		"mag_number": "126",
+		 "mag_name": "Клин"
+		},
+	{
+		"mag_number": "127",
+		 "mag_name": "Саранск"
+		},
+	{
+		"mag_number": "128",
+		 "mag_name": "Кемерово-2"
+		},
+	{
+		"mag_number": "131",
+		 "mag_name": "Магнитогорск"
+		},
+	{
+		"mag_number": "134",
+		 "mag_name": "Санкт-Петербург Парашютная"
+		},
+	{
+		"mag_number": "135",
+		 "mag_name": "Санкт-Петербург Московское"
+		},
+	{
+		"mag_number": "136",
+		 "mag_name": "Санкт-Петербург Петергофское"
+		},
+	{
+		"mag_number": "137",
+		 "mag_name": "Санкт-Петербург Таллинское"
+		},
+	{
+		"mag_number": "139",
+		 "mag_name": "Интернет-магазин Санкт-Петербург"
+		},
+	{
+		"mag_number": "140",
+		 "mag_name": "Санкт-Петербург Выборгское"
+		},
+	{
+		"mag_number": "141",
+		 "mag_name": "Санкт-Петербург-7 Руставели"
+		},
+	{
+		"mag_number": "142",
+		 "mag_name": "Калуга"
+		},
+	{
+		"mag_number": "143",
+		 "mag_name": "Варшавское шоссе"
+		},
+	{
+		"mag_number": "147",
+		 "mag_name": "Краснодар 2 NEW"
+		},
+	{
+		"mag_number": "150",
+		 "mag_name": "Владикавказ"
+		},
+	{
+		"mag_number": "153",
+		 "mag_name": "Жуковский"
+		},
+	{
+		"mag_number": "163",
+		 "mag_name": "Казань-3"
+		},
+	{
+		"mag_number": "165",
+		 "mag_name": "Новороссийск"
+		},
+	{
+		"mag_number": "171",
+		 "mag_name": "Гагаринский"
+	},
+	{
+		"mag_number": "162",
+		 "mag_name": "Колумбус"
+	},
+	{
+		"mag_number": "138",
+		 "mag_name": "Санкт-Петербург Уральская"
+	},
+	{
+		"mag_number": "176",
+		 "mag_name": "Теплый стан"
+	},
+	{
+		"mag_number": "156",
+		 "mag_name": "Псков"
+		}
+]
+
